@@ -1,0 +1,35 @@
+2025-01-16 16:38:10,963 - INFO - Processing date: 2025-01-28 20:00:00
+2025-01-16 16:38:36,844 - INFO - Processing date: 2025-01-28 20:00:00
+2025-01-16 16:38:42,355 - INFO - Sport Object <Response [200]>2025-01-28 20:00:00-2403 -> success
+2025-01-16 16:38:42,355 - INFO - Processing complete.
+2025-01-16 16:43:34,907 - INFO - Processing date: 2025-01-22 21:00:00
+2025-01-16 16:43:42,300 - INFO - Sport Object <Response [200]>2025-01-22 21:00:00-2406 -> success
+2025-01-16 16:43:42,300 - INFO - Processing date: 2025-01-23 21:00:00
+2025-01-16 16:43:47,610 - INFO - Sport Object <Response [200]>2025-01-23 21:00:00-2412 -> success
+2025-01-16 16:43:47,611 - INFO - Processing date: 2025-01-23 21:00:00
+2025-01-16 16:52:33,581 - INFO - Processing date: 2025-01-28 21:00:00
+2025-01-16 16:52:43,638 - INFO - Sport Object <Response [200]>2025-01-28 21:00:00-2403 -> success
+2025-01-16 16:52:46,870 - ERROR - Error processing sport object 2025-01-28 21:00:00-2407: 'NoneType' object has no attribute 'find_all'
+2025-01-16 16:52:51,254 - INFO - Sport Object <Response [200]>2025-01-28 21:00:00-2408 -> success
+2025-01-16 16:52:51,254 - INFO - Processing date: 2025-01-29 21:00:00
+2025-01-16 16:53:00,724 - INFO - Sport Object <Response [200]>2025-01-29 21:00:00-2405 -> success
+2025-01-16 16:53:04,150 - ERROR - Error processing sport object 2025-01-29 21:00:00-2408: 'NoneType' object has no attribute 'find_all'
+2025-01-16 16:53:08,317 - INFO - Sport Object <Response [200]>2025-01-29 21:00:00-2409 -> success
+2025-01-16 16:53:11,788 - ERROR - Error processing sport object 2025-01-29 21:00:00-2413: 'NoneType' object has no attribute 'find_all'
+2025-01-16 16:53:11,788 - INFO - Processing complete.
+2025-01-16 17:02:45,440 - INFO - Processing date: 2025-01-28 21:00:00
+2025-01-16 17:17:04,006 - INFO - Processing date: 2025-01-28 21:00:00
+2025-01-16 17:17:13,437 - ERROR - Error processing sport object 2025-01-28 21:00:00-2407: 'time_begin'
+2025-01-16 17:17:13,437 - INFO - Processing date: 2025-01-29 21:00:00
+2025-01-16 17:17:23,089 - ERROR - Error processing sport object 2025-01-29 21:00:00-2408: 'time_begin'
+2025-01-16 17:17:26,347 - ERROR - Error processing sport object 2025-01-29 21:00:00-2413: 'NoneType' object has no attribute 'find_all'
+2025-01-16 17:17:26,347 - INFO - Processing complete.
+2025-01-16 17:21:34,056 - INFO - Processing date: 2025-01-29 21:00:00
+2025-01-16 17:21:43,438 - ERROR - Error processing sport object 2025-01-29 21:00:00-2413: 'time_begin'
+2025-01-16 17:21:43,438 - INFO - Processing complete.
+2025-01-16 17:25:17,325 - INFO - No eligible slots found: [In two weeks, Tuesday, Wednesday, Thursday, 20:00:00 - 22:00:00]
+2025-01-16 17:25:17,325 - INFO - Processing complete.
+2025-01-16 17:28:56,838 - INFO - No eligible slots found: [In two weeks, Tuesday, Wednesday, Thursday, 20:00:00 - 22:00:00]
+2025-01-16 17:28:56,839 - INFO - Processing complete.
+2025-01-16 17:33:59,531 - INFO - No eligible slots found: [In two weeks, Tuesday, Wednesday, Thursday, 20:00:00 - 22:00:00]
+2025-01-16 17:33:59,531 - INFO - Processing complete.
